@@ -1,0 +1,1128 @@
+{
+  "labels": {
+    "Cártel Jalisco Nueva Generación": {
+      "units": [
+        "Cártel Jalisco Nueva Generación"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel de Sinaloa y/o Pacífico": {
+      "units": [
+        "Cártel de Sinaloa / Pacífico"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Pacífico - Fracción Los Menores": {
+      "units": [
+        "Cártel del Pacífico - Fracción Los Menores"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel del Pacífico - Fracción Los Menores"
+      ]
+    },
+    "Cártel del Noreste": {
+      "units": [
+        "Cártel del Noreste"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "La Familia Michoacana": {
+      "units": [
+        "La Familia Michoacana"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Zetas Vieja Escuela": {
+      "units": [
+        "Zetas Vieja Escuela"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "CDG-ZVE Grupo Sombra": {
+      "units": [
+        "CDG-ZVE Grupo Sombra"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Golfo": {
+      "units": [
+        "Cártel del Golfo"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Yglesias": {
+      "units": [
+        "Los Yglesias"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel de los Zetas incisión 35-Z": {
+      "units": [
+        "Cártel de los Zetas incisión 35-Z"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel de los Zetas incisión 35-Z"
+      ]
+    },
+    "Cártel de los Zetas": {
+      "units": [
+        "Cártel de los Zetas"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel Santa Rosa de Lima": {
+      "units": [
+        "Cártel Santa Rosa de Lima"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Pacífico": {
+      "units": [
+        "Cártel de Sinaloa / Pacífico"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Viagras": {
+      "units": [
+        "Los Viagras"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Nuevo Cártel de Juárez y/o La Línea": {
+      "units": [
+        "La Línea / Cártel de Juárez"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Golfo aliado al Cártel Jalisco Nueva Generación": {
+      "units": [
+        "Cártel del Golfo",
+        "Cártel Jalisco Nueva Generación"
+      ],
+      "association": [
+        "Cártel Jalisco Nueva Generación",
+        "Cártel del Golfo"
+      ],
+      "factions": []
+    },
+    "Cártel de Sinaloa, facción Cártel de los Cabrera Sarabia": {
+      "units": [
+        "Cártel de Sinaloa, facción Cártel de los Cabrera Sarabia"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel de Sinaloa, facción Cártel de los Cabrera Sarabia"
+      ]
+    },
+    "La Familia": {
+      "units": [
+        "La Familia"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel Beltran Leyva": {
+      "units": [
+        "Cártel de los Beltrán Leyva"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Guerreros Unidos": {
+      "units": [
+        "Guerreros Unidos"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Rojos": {
+      "units": [
+        "Los Rojos"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel Nuevo Imperio": {
+      "units": [
+        "Cártel Nuevo Imperio"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Talibanes": {
+      "units": [
+        "Los Talibanes"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Golfo, facción Operativa Espartano #1": {
+      "units": [
+        "Cártel del Golfo, facción Operativa Espartano #1"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel del Golfo, facción Operativa Espartano #1"
+      ]
+    },
+    "C.D.G. - Ciclones": {
+      "units": [
+        "C.D.G. - Ciclones"
+      ],
+      "association": [],
+      "factions": [
+        "C.D.G. - Ciclones"
+      ]
+    },
+    "Caballeros Templarios": {
+      "units": [
+        "Caballeros Templarios"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Pacífico - Fracción Mayo Zambada": {
+      "units": [
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ]
+    },
+    "Cártel de Sinaloa": {
+      "units": [
+        "Cártel de Sinaloa / Pacífico"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Fuerza Anti Unión": {
+      "units": [
+        "Fuerza Anti Unión"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Unión Tepito": {
+      "units": [
+        "Unión Tepito"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "La Línea": {
+      "units": [
+        "La Línea / Cártel de Juárez"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Nueva Sangre Zeta": {
+      "units": [
+        "Nueva Sangre Zeta"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Correa": {
+      "units": [
+        "Los Correa"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Ronda 88": {
+      "units": [
+        "Ronda 88"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Sangre Nueva Zeta": {
+      "units": [
+        "Sangre Nueva Zeta"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Alianza la Unión–Nuevo Imperio": {
+      "units": [
+        "Unión Tepito",
+        "Cártel Nuevo Imperio"
+      ],
+      "association": [
+        "Cártel Nuevo Imperio",
+        "Unión Tepito"
+      ],
+      "factions": []
+    },
+    "Banda Charal y Banda Pamela": {
+      "units": [
+        "Banda Charal",
+        "Banda Pamela"
+      ],
+      "association": [
+        "Banda Charal",
+        "Banda Pamela"
+      ],
+      "factions": []
+    },
+    "Beltran Leyva": {
+      "units": [
+        "Cártel de los Beltrán Leyva"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel de Los Beltran Leyva": {
+      "units": [
+        "Cártel de los Beltrán Leyva"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Golfo - Z Vieja Escuela": {
+      "units": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "association": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "factions": []
+    },
+    "Cártel del Golfo-Z Vieja Escuela": {
+      "units": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "association": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "factions": []
+    },
+    "Cárteles Unidos (Alianza entre La Oficina y el Cártel del Pacífico)": {
+      "units": [
+        "La Oficina",
+        "Cártel de Sinaloa / Pacífico"
+      ],
+      "association": [
+        "Cártel de Sinaloa / Pacífico",
+        "La Oficina"
+      ],
+      "factions": []
+    },
+    "Célula delictiva de El Loco Téllez": {
+      "units": [
+        "Célula delictiva de El Loco Téllez"
+      ],
+      "association": [],
+      "factions": [
+        "Célula delictiva de El Loco Téllez"
+      ]
+    },
+    "Gente Nueva del Tigre": {
+      "units": [
+        "Gente Nueva del Tigre"
+      ],
+      "association": [],
+      "factions": [
+        "Gente Nueva del Tigre"
+      ]
+    },
+    "Cártel de Tláhuac": {
+      "units": [
+        "Cártel de Tláhuac"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Independiente": {
+      "units": [],
+      "association": [],
+      "factions": []
+    },
+    "Los Ardillos": {
+      "units": [
+        "Los Ardillos"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Molina": {
+      "units": [
+        "Los Molina"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Rodolfos": {
+      "units": [
+        "Los Rodolfos"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "C.D.G. - Metros, facción aliada a células del CJNG": {
+      "units": [
+        "C.D.G. - Metros",
+        "Cártel Jalisco Nueva Generación"
+      ],
+      "association": [
+        "C.D.G. - Metros",
+        "Cártel Jalisco Nueva Generación"
+      ],
+      "factions": []
+    },
+    "Cártel Independiente de la Laguna y/o Cártel del Poniente": {
+      "units": [
+        "Cártel Independiente de la Laguna y/o Cártel del Poniente"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Gente Nueva Salazar": {
+      "units": [
+        "Gente Nueva Salazar"
+      ],
+      "association": [],
+      "factions": [
+        "Gente Nueva Salazar"
+      ]
+    },
+    "Los Hades": {
+      "units": [
+        "Los Hades"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Jefes": {
+      "units": [
+        "Los Jefes"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Trinis": {
+      "units": [
+        "Los Trinis"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "C.D.G. - Rojos": {
+      "units": [
+        "C.D.G. - Rojos"
+      ],
+      "association": [],
+      "factions": [
+        "C.D.G. - Rojos"
+      ]
+    },
+    "C.D.G. Escorpiones": {
+      "units": [
+        "C.D.G. Escorpiones"
+      ],
+      "association": [],
+      "factions": [
+        "C.D.G. Escorpiones"
+      ]
+    },
+    "CSLPNG": {
+      "units": [
+        "CSLPNG"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Columna Armada Pedro J. Méndez": {
+      "units": [
+        "Columna Armada Pedro J. Méndez"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel de la Sierra": {
+      "units": [
+        "Cártel de la Sierra"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Pacífico, célula Los Ántrax": {
+      "units": [
+        "Cártel del Pacífico, célula Los Ántrax"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel del Pacífico, célula Los Ántrax"
+      ]
+    },
+    "El Abuelo": {
+      "units": [
+        "El Abuelo"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Jes y/o el Sierra (banda delictiva)": {
+      "units": [
+        "El Jes / El Sierra"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Guardia Guerrerense": {
+      "units": [
+        "Guardia Guerrerense"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "La Familia Michoacana y bandas locales": {
+      "units": [
+        "La Familia Michoacana y bandas locales"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Granados": {
+      "units": [
+        "Los Granados"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Sierra": {
+      "units": [
+        "Los Sierra"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Tanzanios": {
+      "units": [
+        "Los Tanzanios"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Nueva Plaza": {
+      "units": [
+        "Nueva Plaza"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "C.D.G. - Panteras": {
+      "units": [
+        "C.D.G. - Panteras"
+      ],
+      "association": [],
+      "factions": [
+        "C.D.G. - Panteras"
+      ]
+    },
+    "C.D.G. Facción del Señor de la P": {
+      "units": [
+        "C.D.G. Facción del Señor de la P"
+      ],
+      "association": [],
+      "factions": [
+        "C.D.G. Facción del Señor de la P"
+      ]
+    },
+    "Cártel Jalisco Nueva Generación aliado al Cártel de los Arellano Félix": {
+      "units": [
+        "Cártel Jalisco Nueva Generación",
+        "Cártel de los Arellano Félix"
+      ],
+      "association": [
+        "Cártel Jalisco Nueva Generación",
+        "Cártel de los Arellano Félix"
+      ],
+      "factions": []
+    },
+    "Cártel Los Alemanes": {
+      "units": [
+        "Los Alemanes"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel Unido de la Huasteca": {
+      "units": [
+        "Cártel Unido de la Huasteca"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel de los Arellano Félix": {
+      "units": [
+        "Cártel de los Arellano Félix"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El América": {
+      "units": [
+        "El América"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Grupo Squalo": {
+      "units": [
+        "Grupo Squalo"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Alemanes": {
+      "units": [
+        "Los Alemanes"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Maestrin": {
+      "units": [
+        "Los Maestrin"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Rojas Romero": {
+      "units": [
+        "Los Rojas Romero"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Malcriados 3AD": {
+      "units": [
+        "Malcriados 3AD"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Pura Gente Nueva - Cártel de los Zetas": {
+      "units": [
+        "Pura Gente Nueva - Cártel de los Zetas"
+      ],
+      "association": [],
+      "factions": [
+        "Pura Gente Nueva - Cártel de los Zetas"
+      ]
+    },
+    "Comunitarios": {
+      "units": [
+        "Comunitarios"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel Independiente de la Laguna y/o Cártel del Noreste": {
+      "units": [
+        "Cártel Independiente de la Laguna y/o Cártel del Noreste"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel San Luis Potosí Nueva Generación": {
+      "units": [
+        "Cártel San Luis Potosí Nueva Generación"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel del Pacífico - Fracciones aliadas a Los Menores y al Mayo Zambada": {
+      "units": [
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "association": [
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "factions": [
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ]
+    },
+    "Célula delictiva de El Mamer": {
+      "units": [
+        "Célula delictiva de El Mamer"
+      ],
+      "association": [],
+      "factions": [
+        "Célula delictiva de El Mamer"
+      ]
+    },
+    "Don José": {
+      "units": [
+        "Don José"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El América (banda delictiva)": {
+      "units": [
+        "El América"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Talachas (bandas delictivas)": {
+      "units": [
+        "El Talachas (bandas delictivas)"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Güero Fresa": {
+      "units": [
+        "Güero Fresa"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Las Rojas Romero": {
+      "units": [
+        "Los Rojas Romero"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Maceros": {
+      "units": [
+        "Los Maceros"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Viagras - Sangre Nueva Guerrerense": {
+      "units": [
+        "Los Viagras - Sangre Nueva Guerrerense"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Mara Salvatruchas 13": {
+      "units": [
+        "Mara Salvatruchas 13"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Arturo Gress Calva": {
+      "units": [
+        "Arturo Gress Calva"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Bigotes Blancos (bandas delictivas)": {
+      "units": [
+        "Bigotes Blancos (bandas delictivas)"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "C.D.G. Facción Operativa Espartano #1": {
+      "units": [
+        "Cártel del Golfo, facción Operativa Espartano #1"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel del Golfo, facción Operativa Espartano #1"
+      ]
+    },
+    "CIDA (Los Marin)": {
+      "units": [
+        "CIDA (Los Marin)"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Carillo Fuentes": {
+      "units": [
+        "Carillo Fuentes"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Cártel Jalisco Nueva Generación y Célula Independiente Los Mezcales (José Bernabé Brizuela Meraz)": {
+      "units": [
+        "Cártel Jalisco Nueva Generación",
+        "Célula Independiente Los Mezcales"
+      ],
+      "association": [
+        "Cártel Jalisco Nueva Generación",
+        "Célula Independiente Los Mezcales"
+      ],
+      "factions": []
+    },
+    "Cártel Jalisco Nueva Generación, Célula Independiente Los Mezcales (José Bernabé Brizuela Meraz)": {
+      "units": [
+        "Cártel Jalisco Nueva Generación",
+        "Célula Independiente Los Mezcales"
+      ],
+      "association": [
+        "Cártel Jalisco Nueva Generación",
+        "Célula Independiente Los Mezcales"
+      ],
+      "factions": []
+    },
+    "Cártel Jalisco Nueva Generación, Célula delictiva de El Loco Téllez, Célula delictiva de El Mamer": {
+      "units": [
+        "Cártel Jalisco Nueva Generación",
+        "Célula delictiva de El Loco Téllez",
+        "Célula delictiva de El Mamer"
+      ],
+      "association": [
+        "Cártel Jalisco Nueva Generación",
+        "Célula delictiva de El Loco Téllez",
+        "Célula delictiva de El Mamer"
+      ],
+      "factions": [
+        "Célula delictiva de El Loco Téllez",
+        "Célula delictiva de El Mamer"
+      ]
+    },
+    "Cártel del Golfo - ZVE": {
+      "units": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "association": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "factions": []
+    },
+    "Cártel del Pacífico - Fracción Mayo Zambada.": {
+      "units": [
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "association": [],
+      "factions": [
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ]
+    },
+    "Cártel del Pacífico - Los Cazadores, aliados de Los Menores; Los Gigios, aliados al Mayo Zambada.": {
+      "units": [
+        "Los Cazadores",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Gigios",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "association": [
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Cártel del Pacífico - Fracción Mayo Zambada",
+        "Los Cazadores",
+        "Los Gigios"
+      ],
+      "factions": [
+        "Los Cazadores",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Gigios",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ]
+    },
+    "Cártel del Pacífico - Los Costeños, aliados a Los Menores; Los Páez, aliados a El Mayo Zambada.": {
+      "units": [
+        "Los Costeños",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Páez",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "association": [
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Cártel del Pacífico - Fracción Mayo Zambada",
+        "Los Costeños",
+        "Los Páez"
+      ],
+      "factions": [
+        "Los Costeños",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Páez",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ]
+    },
+    "Cártel del Pacífico - Los Salazar, aliados a Los Menores, y Los Licenciados, alias al Mayo Zambada.": {
+      "units": [
+        "Los Salazar",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Licenciados",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "association": [
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Cártel del Pacífico - Fracción Mayo Zambada",
+        "Los Licenciados",
+        "Los Salazar"
+      ],
+      "factions": [
+        "Los Salazar",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Licenciados",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ]
+    },
+    "Cártel del Pacífico - Los Tintori, aliados a Los Menores; Los Pipen, aliados al Mayo Zambada": {
+      "units": [
+        "Los Tintori",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Pipen",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ],
+      "association": [
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Cártel del Pacífico - Fracción Mayo Zambada",
+        "Los Pipen",
+        "Los Tintori"
+      ],
+      "factions": [
+        "Los Tintori",
+        "Cártel del Pacífico - Fracción Los Menores",
+        "Los Pipen",
+        "Cártel del Pacífico - Fracción Mayo Zambada"
+      ]
+    },
+    "Cártel el Golfo - Z Vieja Escuela": {
+      "units": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "association": [
+        "Cártel del Golfo",
+        "Zetas Vieja Escuela"
+      ],
+      "factions": []
+    },
+    "Célula Independiente Los Mezcales (José Bernabé Brizuela Meraz)": {
+      "units": [
+        "Célula Independiente Los Mezcales"
+      ],
+      "association": [],
+      "factions": [
+        "Célula Independiente Los Mezcales"
+      ]
+    },
+    "Don Lupe": {
+      "units": [
+        "Don Lupe"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Ardilla": {
+      "units": [
+        "El Ardilla"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Chita": {
+      "units": [
+        "El Chita"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Estaca (bandas delictivas)": {
+      "units": [
+        "El Estaca (bandas delictivas)"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Gabo": {
+      "units": [
+        "El Gabo"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Hijin (banda delictiva)": {
+      "units": [
+        "El Hijin"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Hijin (bandas delictivas)": {
+      "units": [
+        "El Hijin"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Jes y/o el Sierra": {
+      "units": [
+        "El Jes / El Sierra"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "El Marino (bandas delictivas)": {
+      "units": [
+        "El Marino (bandas delictivas)"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Erick Estrada Hernández": {
+      "units": [
+        "Erick Estrada Hernández"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Gema Rosas Fernández": {
+      "units": [
+        "Gema Rosas Fernández"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Granados": {
+      "units": [
+        "Los Granados"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Independiente El Abuelo": {
+      "units": [
+        "Independiente El Abuelo"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "JJ": {
+      "units": [
+        "JJ"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Julio Tovar Escamilla (bandas delictivas)": {
+      "units": [
+        "Julio Tovar Escamilla (bandas delictivas)"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "La Unión de León": {
+      "units": [
+        "La Unión de León"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Chehuis": {
+      "units": [
+        "Los Chehuis"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Durango": {
+      "units": [
+        "Los Durango"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Granadso": {
+      "units": [
+        "Los Granados"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Puga": {
+      "units": [
+        "Los Puga"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Rodolfo": {
+      "units": [
+        "Los Rodolfos"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Salazar": {
+      "units": [
+        "Los Salazar"
+      ],
+      "association": [],
+      "factions": [
+        "Los Salazar"
+      ]
+    },
+    "Los Terán": {
+      "units": [
+        "Los Terán"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Los Téllez": {
+      "units": [
+        "Los Téllez"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "Maras Salvatruchas 13": {
+      "units": [
+        "Mara Salvatruchas 13"
+      ],
+      "association": [],
+      "factions": []
+    },
+    "No identificado": {
+      "units": [],
+      "association": [],
+      "factions": []
+    },
+    "Posible Alianza Unión Tepito": {
+      "units": [],
+      "association": [],
+      "factions": []
+    },
+    "Árturo Álvarez Pérez": {
+      "units": [
+        "Arturo Álvarez Pérez"
+      ],
+      "association": [],
+      "factions": []
+    }
+  },
+  "method": "Normalización de nombres y separación de menciones explícitas de varios grupos; y/o se mantiene como alias ambiguo. Facciones son un subconjunto de los grupos/células; asociaciones son combinaciones de nombres, no necesariamente alianzas comprobadas. No se colapsan La Familia o facciones no equivalentes."
+}

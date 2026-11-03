@@ -1,0 +1,14 @@
+{
+  "fuente": "NASA Earth Observatory, Blue Marble Next Generation con topografía y batimetría",
+  "mosaico": "diciembre de 2004; no imagen actual",
+  "url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x5400x2700.jpg",
+  "documentacion": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-topography-bathymetry/",
+  "extension": [
+    -180,
+    -90,
+    180,
+    90
+  ],
+  "proyeccion_origen": "Equirectangular; longitudes/latitudes",
+  "visualizacion": "Remuestreo por filas a Mercator; superposición oscura al 59%; copia local sin API."
+}
